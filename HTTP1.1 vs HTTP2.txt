@@ -1,0 +1,6 @@
+Difference between HTTP1.1 and HTTP2
+1. HTTP1.1 was founded in year 1997 and HTTP2 came into existence around 2015
+2. Bothe are used for communication or transfer of data between client computer and a remote web server.
+3. HTTP1.1 uses plain text format for every single requests and responses whereas HTTP2 encapsulates data in binary format for requests and responses.
+4. HTTP1.1 is less faster compared to HTTP2.
+5. If there is network delay then using HTTP1.1 loading of pages may take longer time whereas in HTTP2 despite network delay, page will load faster due to multiplexing

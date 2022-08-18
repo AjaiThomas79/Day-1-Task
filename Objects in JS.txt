@@ -1,0 +1,21 @@
+Objects in Javascript >>
+1. Objects are real world representation of any entity or object.
+1. Objects are standalone entity and can be declared by const keyword.
+2. In a real world all entity are represented by an object model for example, car, bike, house, etc., all are objects.
+3. We can assign values to objects similarly like a value assigned to a variable.
+4. We can create an object by New keyword also.
+5. An object in javascript can take all datatypes similarly like an array object.
+
+Internal representation of object in Javascript >>
+1. Objects are representated as key value pair.
+2. A car is an object that has properties like color, weight, model.
+3. const car = {type:"Fiat", model:"500", color:"white"};
+4. Above car object is represented as key:value pair seperated by colon. Car is object and properties are type,model,and color.
+Example >>
+const person = {
+firstName:"Ajai",
+ lastName:"Thomas",
+ age:40,
+ eyeColor:"blue"
+		};
+5. Object name 
